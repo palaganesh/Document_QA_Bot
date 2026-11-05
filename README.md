@@ -18,7 +18,7 @@ The application provides an interactive Command Line Interface (CLI), displays s
 | ChromaDB              | 1.5.9             | Persistent vector database      |
 | Sentence Transformers | 6.2.0             | Embedding generation            |
 | all-MiniLM-L6-v2      | Pre-trained model | Text embeddings                 |
-| Google GenAI          | 2.34.0            | Gemini API integration          |
+| Google GenAI          | 2.34.0 / Gemini 3.5 Flash-Lite          | Gemini API integration          |
 | python-dotenv         | 1.2.4             | Environment variable management |
 
 ## 3. Project Architecture
@@ -240,7 +240,7 @@ The following questions can be used to test the application.
 
 ### Unanswerable Question
 
-**Question:** Who is the Prime Minister of India?
+**Question:**  What is nuclear fusion?
 
 **Expected response:**
 
